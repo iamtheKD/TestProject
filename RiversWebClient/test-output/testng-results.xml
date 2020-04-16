@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28314" started-at="2020-02-01T14:44:25Z" finished-at="2020-02-01T14:44:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28314" started-at="2020-02-01T14:44:25Z" finished-at="2020-02-01T14:44:54Z">
+      <class name="page.classes.SmokeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:page.classes.SmokeTest@51efea79]" name="setUp" is-config="true" duration-ms="15340" started-at="2020-02-01T20:14:25Z" finished-at="2020-02-01T20:14:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:1, instance:page.classes.SmokeTest@51efea79]" name="Login" duration-ms="5059" started-at="2020-02-01T20:14:41Z" finished-at="2020-02-01T20:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:page.classes.SmokeTest@51efea79]" name="getResult" is-config="true" duration-ms="2" started-at="2020-02-01T20:14:46Z" finished-at="2020-02-01T20:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login status=SUCCESS method=SmokeTest.Login()[pri:1, instance:page.classes.SmokeTest@51efea79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="p2pChat()[pri:2, instance:page.classes.SmokeTest@51efea79]" name="p2pChat" duration-ms="5037" started-at="2020-02-01T20:14:46Z" finished-at="2020-02-01T20:14:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p2pChat -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:page.classes.SmokeTest@51efea79]" name="getResult" is-config="true" duration-ms="0" started-at="2020-02-01T20:14:51Z" finished-at="2020-02-01T20:14:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=p2pChat status=SUCCESS method=SmokeTest.p2pChat()[pri:2, instance:page.classes.SmokeTest@51efea79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="SendFile()[pri:3, instance:page.classes.SmokeTest@51efea79]" name="SendFile" duration-ms="2015" started-at="2020-02-01T20:14:51Z" finished-at="2020-02-01T20:14:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendFile -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:page.classes.SmokeTest@51efea79]" name="getResult" is-config="true" duration-ms="1" started-at="2020-02-01T20:14:53Z" finished-at="2020-02-01T20:14:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SendFile status=SUCCESS method=SmokeTest.SendFile()[pri:3, instance:page.classes.SmokeTest@51efea79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="Emoticon()[pri:4, instance:page.classes.SmokeTest@51efea79]" name="Emoticon" duration-ms="19" started-at="2020-02-01T20:14:53Z" finished-at="2020-02-01T20:14:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emoticon -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:page.classes.SmokeTest@51efea79]" name="getResult" is-config="true" duration-ms="0" started-at="2020-02-01T20:14:53Z" finished-at="2020-02-01T20:14:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Emoticon status=SUCCESS method=SmokeTest.Emoticon()[pri:4, instance:page.classes.SmokeTest@51efea79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="ReplyMessage()[pri:5, instance:page.classes.SmokeTest@51efea79]" name="ReplyMessage" duration-ms="15" started-at="2020-02-01T20:14:53Z" finished-at="2020-02-01T20:14:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReplyMessage -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:page.classes.SmokeTest@51efea79]" name="getResult" is-config="true" duration-ms="0" started-at="2020-02-01T20:14:53Z" finished-at="2020-02-01T20:14:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ReplyMessage status=SUCCESS method=SmokeTest.ReplyMessage()[pri:5, instance:page.classes.SmokeTest@51efea79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:page.classes.SmokeTest@51efea79]" name="tearDown" is-config="true" duration-ms="759" started-at="2020-02-01T20:14:53Z" finished-at="2020-02-01T20:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- page.classes.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

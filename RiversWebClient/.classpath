@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/sqlite-jdbc-3.8.11.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/extentreports-2.40.1.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/testng-6.9.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/jcommander-1.69.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/apache-log4j-2.12.1-bin/log4j-api-2.12.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/apache-log4j-2.12.1-bin/log4j-api-2.12.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/kuldeep/Desktop/Rivers-Project/Selenium Tools/apache-log4j-2.12.1-bin/log4j-api-2.12.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
